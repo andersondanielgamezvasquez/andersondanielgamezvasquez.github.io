@@ -1,0 +1,44 @@
+.titulos
+{
+    font-family: 'Kavoon', cursive;
+    text-align: center;
+}
+.boton
+{
+    margin-left:45%;
+}
+.degradado{
+    background: #a8ff78;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #78ffd6, #a8ff78); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#lol{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#yolo{
+    background: #a8ff78;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #78ffd6, #a8ff78); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+form{
+    width: 450px;
+    margin: auto;
+    background: rgb(0, 0,0,0.4);
+    padding: 10px 20px; 
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 20;
+}
+input,textarea{
+    width: 100%s;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+}
